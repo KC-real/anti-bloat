@@ -1,4 +1,3 @@
-
 $paths = @("$env:TEMP", "C:\Windows\Temp")
 $totalDeleted = 0
 $totalSkipped = 0
